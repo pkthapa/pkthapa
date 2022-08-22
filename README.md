@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm a software engineer from India.</h1>
+<h1 align="center">Hi 👋, I'm a software engineer from Bangalore, India.</h1>
 <h3 align="center">A passionate C++ developer.</h3>
 <p style="text-align: center;"><em>An experienced C++ developer with 10 years of hands-on experience in the area of software design and development. Expertise in end-to-end software development life cycle processes and experienced in carrying out impact analysis, project review and documentation.</em></p>
 <h2 align="left">Work Experiences</h2>
