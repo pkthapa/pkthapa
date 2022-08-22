@@ -7,12 +7,12 @@
 <ul>
 <li>Working as a VMware&rsquo;s Blockchain (VMBC) developer in C++17.</li>
 <li>Implemented ASAN and TSAN reports in Github&rsquo;s CI runs.</li>
-<li>Working on enhancing the PKI algorithms (RSA, ECDSA, EdDSA-X25519) used in<br />VMBC for digest generation, signatures and verifications of replica messages using<br />standard cryptographic libraries such as OpenSSL, Crypto++, and Relic.</li>
+<li>Working on enhancing the PKI algorithms (RSA, ECDSA, EdDSA-X25519) used in VMBC for digest generation, signatures and verifications of replica messages using standard cryptographic libraries such as OpenSSL, Crypto++, and Relic.</li>
 </ul>
 <h4 align="left"><a href="https://www.honeywell.com/" target="blank"><img src="https://user-images.githubusercontent.com/20440403/185794175-be415b6c-02cc-4237-a84c-a6fb0a5f6281.png" alt="pkthapa" width="120" height="25" align="center" /></a></h4>
 <p><span style="color: #ff6600;"><strong>Advanced Software Engineer</strong></span><br /><span style="color: #ff6600;"><em>April 2019 - June 2021</em></span></p>
 <ul>
-<li>Worked as a senior C++/Qt developer on Honeywell&rsquo;s Integrated Controller Working<br />Position (ICWP) product for Dubai, Incheon, and Gatwick airports.</li>
+<li>Worked as a senior C++/Qt developer on Honeywell&rsquo;s Integrated Controller Working Position (ICWP) product for Dubai, Incheon, and Gatwick airports.</li>
 <li>Code review of team members.</li>
 <li>C++11, Qt, Perl, Shell Scripting, Data Structures, Algorithms, STL, Python, Linux.</li>
 <li>Google Test, Sonarqube, Bamboo, CI/CD.</li>
@@ -20,7 +20,7 @@
 <h4 align="left"><a href="https://www.innoviti.com/" target="blank"><img src="https://user-images.githubusercontent.com/20440403/185794584-a8d1fcd3-9d06-48bc-bd77-1e8d85f94ad2.png" alt="pkthapa" width="120" height="35" align="center" /></a></h4>
 <p><span style="color: #ff6600;"><strong>Advanced Software Engineer</strong></span><br /><span style="color: #ff6600;"><em>September 2015 - April 2019</em></span></p>
 <ul>
-<li><span style="color: #000000;">Worked as a C++ developer on POS terminals: Ingenico (Move/2500, Link/2500,<br />iCT220, iWL, &amp; iCMP)</span></li>
+<li><span style="color: #000000;">Worked as a C++ developer on POS terminals: Ingenico (Move/2500, Link/2500, iCT220, iWL, &amp; iCMP)</span></li>
 <li><span style="color: #000000;">Experience in DLL (C) and JAR (Java) development.</span></li>
 <li><span style="color: #000000;">Serial Port (RS-232) programming using Win32 API(s).</span></li>
 <li><span style="color: #000000;">Lead a team of 3 for product design and development on Ingenico&rsquo;s Tetra terminals.</span></li>
@@ -29,7 +29,7 @@
 <h4 align="left"><a href="https://www.thalesgroup.com/en/markets/digital-identity-and-security" target="blank"><img src="https://user-images.githubusercontent.com/20440403/185794783-1f0e5f14-d4e4-48e3-9b6a-39e2c5cf6a67.png" alt="pkthapa" width="120" height="35" align="center" /></a></h4>
 <p><span style="color: #ff6600;"><strong>Advanced Software Engineer</strong></span><br /><span style="color: #ff6600;"><em>April 2012 - September 2015</em></span></p>
 <ul>
-<li>Developed embedded applications on SIM cards OS and filters (both Native Cards<br />and Java Cards).</li>
+<li>Developed embedded applications on SIM cards OS and filters (both Native Cards and Java Cards).</li>
 <li>Optimization of XRAM variables for SIM cards.</li>
 <li>Worked on SIM Toolkit, Dynamic STK, 2G/3G Smart Card OS.</li>
 <li>Experience in GSM 11.11, GSM 11.14, GSM 03.40, &amp; GSM 03.48 standards.</li>
