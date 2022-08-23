@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm a software engineer from Bangalore, India.</h1>
 <h3 align="center">A passionate C++ developer.</h3>
 <p style="text-align: center;"><em>An experienced C++ developer with 10 years of hands-on experience in the area of software design and development. Expertise in end-to-end software development life cycle processes and experienced in carrying out impact analysis, project review and documentation.</em></p>
-<h2 align="left">Work Experiences</h2>
+<h2 align="left">My Work Experiences💼</h2>
 <h4 align="left"><a href="https://www.vmware.com/" target="blank"><img src="https://user-images.githubusercontent.com/20440403/185793707-f8791220-484e-45cc-9319-7c9f40977966.JPG" alt="pkthapa" width="120" height="25" align="center" /></a></h4>
 <p align="left"><span style="color: #ff6600;"><strong>Member of Technical Staff 3</strong></span><br /><span style="color: #ff6600;"><em>June 2021 - Present</em></span></p>
 <ul>
