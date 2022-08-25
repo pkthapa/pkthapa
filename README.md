@@ -32,6 +32,7 @@
 <p><span style="color: #ff6600;"><strong>Advanced Software Engineer</strong></span><br /><span style="color: #ff6600;"><em>September 2015 - April 2019</em></span></p>
 <ul>
 <li><span style="color: #000000;">Worked as a C++ developer on POS terminals: Ingenico (Move/2500, Link/2500, iCT220, iWL, &amp; iCMP)</span></li>
+<li><span style="color: #000000;">Implemented remote upgrade for POS terminals which saved manual upgrade by travelling to every client locations.</span></li>
 <li><span style="color: #000000;">Experience in DLL (C) and JAR (Java) development.</span></li>
 <li><span style="color: #000000;">Serial Port (RS-232) programming using Win32 API(s).</span></li>
 <li><span style="color: #000000;">Lead a team of 3 for product design and development on Ingenico&rsquo;s Tetra terminals.</span></li>
