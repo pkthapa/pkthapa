@@ -29,7 +29,7 @@
 <li>Google Test, Sonarqube, Bamboo, CI/CD.</li>
 </ul>
 <h4 align="left"><a href="https://www.innoviti.com/" target="blank"><img src="https://user-images.githubusercontent.com/20440403/185794584-a8d1fcd3-9d06-48bc-bd77-1e8d85f94ad2.png" alt="pkthapa" width="120" height="35" align="center" /></a></h4>
-<p><span style="color: #ff6600;"><strong>Advanced Software Engineer</strong></span><br /><span style="color: #ff6600;"><em>September 2015 - April 2019</em></span></p>
+<p><span style="color: #ff6600;"><strong>Principal Engineer</strong></span><br /><span style="color: #ff6600;"><em>September 2015 - April 2019</em></span></p>
 <ul>
 <li><span style="color: #000000;">Worked as a C++ developer on POS terminals: Ingenico (Move/2500, Link/2500, iCT220, iWL, &amp; iCMP)</span></li>
 <li><span style="color: #000000;">Implemented remote upgrade for POS terminals which saved manual upgrade by travelling to every client locations.</span></li>
@@ -39,7 +39,7 @@
 <li><span style="color: #000000;">C, C++, STL, Data Structures, Algorithm, Multithreading, Basic Java, Linux.</span></li>
 </ul>
 <h4 align="left"><a href="https://www.thalesgroup.com/en/markets/digital-identity-and-security" target="blank"><img src="https://user-images.githubusercontent.com/20440403/185794783-1f0e5f14-d4e4-48e3-9b6a-39e2c5cf6a67.png" alt="pkthapa" width="120" height="35" align="center" /></a></h4>
-<p><span style="color: #ff6600;"><strong>Advanced Software Engineer</strong></span><br /><span style="color: #ff6600;"><em>April 2012 - September 2015</em></span></p>
+<p><span style="color: #ff6600;"><strong>Software Engineer</strong></span><br /><span style="color: #ff6600;"><em>April 2012 - September 2015</em></span></p>
 <ul>
 <li>Developed embedded applications on SIM cards OS and filters (both Native Cards and Java Cards).</li>
 <li>Optimization of XRAM variables for SIM cards.</li>
