@@ -1,5 +1,3 @@
-![Profile views](https://gpvc.arturio.dev/pkthapa)
-
 <h1 align="center">Hi 👋, I'm a software engineer from Bangalore, India.</h1>
 <h3 align="center">A passionate C++ developer.</h3>
 
