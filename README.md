@@ -1,20 +1,30 @@
-<h1 align="center">Hi 👋, I'm a software engineer from Bangalore, India.</h1>
-<h3 align="center">A passionate C++ developer.</h3>
+<h1 align="center">Hi 👋, I'm a software engineer from Bengaluru, India.</h1>
+<h3 align="center">A passionate software developer.</h3>
 
-<p align="center"><em>An experienced C++ developer with 10 years of hands-on experience in the area of software design and development. Expertise in end-to-end software development life cycle processes and experienced in carrying out impact analysis, project review and documentation.</em></p>
+<p align="center"><em>A seasoned software developer with over 12 years of extensive experience in software design and development. Proficient in managing the entire software development life cycle, from initial planning to implementation and maintenance. Skilled in
+conducting impact analysis, project reviews, and comprehensive documentation. Possess deep expertise in Object-Oriented Programming (OOP) and advanced design techniques.</em></p>
 
-<p align="center">Wanna discuss about?: <b>#c, #cpp, #datastructures, #algorithms, #public-key-encryption-decryption #hashing, #digitalsignatures, #systemdesign, #distributedsystems, #fintech, #linux, and #blockchaintechnology</b>.</p>
+<p align="center">Wanna discuss about?: <b>#c, #cpp, #golang, #datastructures, #algorithms, #public-key-encryption-decryption, #mtls, #natsmessaging, #knative, #hashing, #digitalsignatures, #systemdesign, #distributedsystems, #fintech, #linux, and #blockchaintechnology</b>.</p>
 
-
-
-<h2 align="left">My Work Experiences💼</h2>
-<h4 align="left"><a href="https://www.vmware.com/" target="blank"><img src="https://user-images.githubusercontent.com/20440403/185793707-f8791220-484e-45cc-9319-7c9f40977966.JPG" alt="pkthapa" width="120" height="25" align="center" /></a></h4>
-<p align="left"><span style="color: #ff6600;"><strong>Member of Technical Staff 3</strong></span><br /><span style="color: #ff6600;"><em>June 2021 - Present</em></span></p>
+<h2 align="left">Work Experience💼</h2>
+<h4 align="left"><a href="https://www.dell.com/en-in/dt/solutions/edge-computing/edge-platform.htm?gacd=9688261-13114-5761040-271777130-0&dgc=ST&gad_source=1&gclid=Cj0KCQjw-ai0BhDPARIsAB6hmP7ACG4OPj2QvjLndmozLj22L7YJKGZ6BA_u102KZfOTJEWEw2PbkmMaAoMkEALw_wcB&gclsrc=aw.ds#tab0=1&accordion0&anchorHash=Overview" target="blank"><img src="https://github.com/pkthapa/pkthapa/assets/20440403/670bd003-a704-446d-be78-06f22e6af38e" alt="pkthapa" width="180" height="30" align="center" /></a></h4>
+<p align="left"><span><strong>Software Principal Engineer</strong></span>
+<br/><span style="color: #ff6600;"><em>Dec 2022 - Present</em></span></p>
 <ul>
-<li>Working as a VMware&rsquo;s Blockchain (VMBC) developer in C++17.</li>
+<li>Designed and developed the ECE Upgrade feature for <a href="https://www.dell.com/en-in/dt/video-collateral/dell-nativeedge-securely-scale-edge-operations-to-power-any-use-case.htm">Dell’s Native Edge</a>.</li>
+<li>Implemented mTLS (Root CA, Intermediate CA, CSR, Cert) authentication for gRPC communication and integrated the Raft algorithm.</li>
+<li>Created the container orchestration feature for Dell’s Native Edge using the Podman library.</li>
+<li>Developed a high availability clustering feature for Dell’s Native Edge, utilizing the Raft algorithm.</li>
+<li>Golang, Shell Scripting, Data Structures, Algorithms, Docker/Podman, Kubernetes, Cloud-Native Development, Linux.</li>
+</ul>
+
+<h4 align="left"><a href="https://www.vmware.com/" target="blank"><img src="https://user-images.githubusercontent.com/20440403/185793707-f8791220-484e-45cc-9319-7c9f40977966.JPG" alt="pkthapa" width="120" height="25" align="center" /></a></h4>
+<p align="left"><span style="color: #ff6600;"><strong>Member of Technical Staff 3</strong></span><br /><span style="color: #ff6600;"><em>June 2021 - Dec 2022</em></span></p>
+<ul>
+<li>Developed and enhanced blockchain data encryption algorithms using standard crypto libraries such as OpenSSL, Crypto++ and Relic, improving system security.</li>
 <li>Opensource contribution: https://github.com/vmware/concord-bft</li>
 <li>Implemented ASAN and TSAN reports in Github&rsquo;s CI runs.</li>
-<li>Working on enhancing the PKI algorithms (RSA, ECDSA, EdDSA-X25519) used in VMBC for digest generation, signatures and verifications of replica messages using standard cryptographic libraries such as OpenSSL, Crypto++, and Relic.</li>
+<li>Worked on enhancing the PKI algorithms (RSA, ECDSA, EdDSA-X25519) used in VMBC for digest generation, signatures and verifications of replica messages using standard cryptographic libraries such as OpenSSL, Crypto++, and Relic.</li>
 <li>C++17, Python, Shell Scripting, Data Structures, Algorithms, STL, Docker, Linux.</li>
 <li>Google Test, Apollo Test Framework, Coverity, Github CI, Jenkins.</li>
 </ul>
@@ -47,7 +57,7 @@
 </ul>
 </p>
 
-<h3 align="left">My Resume:</h3><a href="https://github.com/pkthapa/pkthapa/blob/main/files/Cpp-Developer-VMware.pdf">🖱️Click here</a>
+<h3 align="left">My Resume:</h3><a href="https://github.com/pkthapa/pkthapa/blob/main/files/Pankaj-Dell.pdf">🖱️Click here</a>
 
 <h3 align="left">Connect with me:</h3>
 📧<a href = "mailto: pk.thapa66@gmail.com">Email: pk.thapa66@gmail.com</a></br>
@@ -55,6 +65,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
+  <a href="https://go.dev/" target="_blank" rel="noreferrer"> <img src="https://github.com/pkthapa/pkthapa/assets/20440403/c5363174-9d34-400e-b237-4a57b7eed35a" alt="c" width="40" height="40" />
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" /> </a>
   <a href="https://isocpp.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" /> </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /> </a>
