@@ -11,7 +11,7 @@ conducting impact analysis, project reviews, and comprehensive documentation. Po
 <p align="left"><span><strong>Software Principal Engineer</strong></span>
 <br/><span style="color: #ff6600;"><em>Dec 2022 - Present</em></span></p>
 <ul>
-<li>Designed and developed the ECE Upgrade feature for <a href="https://www.dell.com/en-in/dt/video-collateral/dell-nativeedge-securely-scale-edge-operations-to-power-any-use-case.htm">Dell’s Native Edge</a>.</li>
+<li>Designed and developed the NativeEdge Device (NED) Upgrade feature for <a href="https://www.dell.com/en-in/dt/video-collateral/dell-nativeedge-securely-scale-edge-operations-to-power-any-use-case.htm">Dell’s Native Edge</a>.</li>
 <li>Implemented mTLS (Root CA, Intermediate CA, CSR, Cert) authentication for gRPC communication and integrated the Raft algorithm.</li>
 <li>Created the container orchestration feature for Dell’s Native Edge using the Podman library.</li>
 <li>Developed a high availability clustering feature for Dell’s Native Edge, utilizing the Raft algorithm.</li>
