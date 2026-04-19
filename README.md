@@ -2,10 +2,10 @@
 <h3 align="center">Senior Software Engineer | Distributed Systems | C++ | Golang</h3>
 
 <p align="center">
-  <a href="https://github.com/pkthapa/pkthapa/blob/main/files/dell/Pankaj-13YOE.pdf">
+  <a href="https://raw.githubusercontent.com/pkthapa/pkthapa/main/files/dell/Pankaj-13YOE.pdf" target="_blank">
     <img src="https://img.shields.io/badge/📄 Resume-View-blue?style=for-the-badge" />
   </a>
-  <a href="https://github.com/pkthapa/pkthapa/blob/main/files/dell/Cover-Letter.pdf">
+  <a href="https://raw.githubusercontent.com/pkthapa/pkthapa/main/files/dell/Cover-Letter.pdf" target="_blank">
     <img src="https://img.shields.io/badge/✉️ Cover%20Letter-View-green?style=for-the-badge" />
   </a>
 </p>
