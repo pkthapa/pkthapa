@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pankaj Thapa</h1>
-<h3 align="center">Senior Software Engineer | Distributed Systems | C++ | Golang</h3>
+<h3 align="center">Software Principal Engineer | Distributed Systems | C++ | Golang</h3>
 
 <p align="center">
   <a href="https://github.com/pkthapa/pkthapa/blob/main/files/dell/Pankaj-13YOE.pdf">
